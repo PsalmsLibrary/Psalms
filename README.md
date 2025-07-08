@@ -7,7 +7,7 @@
 
 | Package | Description | Status |
 |--------|-------------|--------|
-| [`Psalms.Auth.Jwt`](https://github.com/psPsalmsLibrary/Psalms.Auth.Jwt) | Simplified JWT authentication for ASP.NET APIs | In-Progress |
+| [`Psalms.Auth.Jwt`](https://github.com/PsalmsLibrary/Psalms.Auth.Jwt) | Simplified JWT authentication for ASP.NET APIs | In-Progress |
 ---
 
 ## 🧠 Vision
