@@ -3,13 +3,6 @@
 
 ---
 
-## 📦 Official Packages
-
-| Package | Description | Status |
-|--------|-------------|--------|
-| [`Psalms.Auth.Jwt`](https://github.com/PsalmsLibrary/Psalms.Auth.Jwt) | Simplified JWT authentication for ASP.NET APIs | In-Progress |
----
-
 ## 🧠 Vision
 
 **Psalms** is a modular library collection that aims to:
